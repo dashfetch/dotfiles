@@ -10,6 +10,15 @@ Once I am comfortable with my setup, I will create a shell script to replicate t
 
 ![App Screenshot](https://github.com/dashfetch/dotfiles/blob/master/screenshots/screenshot1.png)
 
+## Stuff that need work
+
+- config dunst and it plug it into different scripts for consistent and useful notifications.
+
+- need scripts for clipboard, pacman update, and overall QoL stuff.
+
+- hyprland windowrules, graceful shutdown.
+
+- rofi scripts for QoL, emojis, clipboard, etc.
 
 ## Roadmap
 
@@ -18,6 +27,7 @@ Once I am comfortable with my setup, I will create a shell script to replicate t
 - Shell script to install the config on the fly with ease.
 
 - Publish it on twitter.
+- 
 ## X (formerly twitter)
 
 - [@dashfetch](https://www.x.com/dashfetch)
