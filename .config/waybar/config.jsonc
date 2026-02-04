@@ -64,12 +64,12 @@
         "format-icons": [" ", " ", " ", " ", " "]
     },
     "network": {
-        "format": "{ipaddr}  ",
+        "format": "{essid}  ",
         "format-disconnected": "Offline  ",
 	"tooltip-format":"{essid}"
     },
     "bluetooth":{
-      "format-connected": "{device_alias}",
+      "format-connected": "{device_alias} ",
       "format-on": "None ",
       "tooltip-format":"{status}",
       "on-click":"foot -e bluetui"
